@@ -4,6 +4,6 @@ This is a simple python script which checks matches using fuzzy logic to identif
 It's intended to be a basic version of sanction screening program used in the banking world.
 
 To run the script
-```python3
-python3 sanctionScreening.py
+```python
+python sanctionScreening.py
 ```
